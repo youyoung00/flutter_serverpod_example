@@ -1,0 +1,7 @@
+class: ImageData
+table: image_data
+
+fields:
+  pixels: ByteData
+  width: int
+  height: int

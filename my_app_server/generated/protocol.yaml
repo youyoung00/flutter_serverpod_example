@@ -1,0 +1,9 @@
+example:
+  - hello:
+pixoramaendpoint:
+user:
+  - create:
+  - read:
+  - readAll:
+  - update:
+  - delete:
